@@ -10,7 +10,7 @@
             align-items: center;
             height: 100vh;
             font-family: Arial, sans-serif;
-            background-image: url("garfield.jpg");
+            background-image: url("garfield,jpg");
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
